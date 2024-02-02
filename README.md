@@ -1,2 +1,2 @@
 # SecretShinobi.github.io
-This is my website made using github pages
+This is my website hosted with github pages
